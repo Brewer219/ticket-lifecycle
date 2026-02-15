@@ -12,7 +12,8 @@ This project expands on the previous osTicket configuration lab by moving beyond
 
 <h2>Environments and Technologies Used</h2>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=azure,windows" />&nbsp;&nbsp;<img src="images/osticket-icon-dark.png" width="48"></p>
+<img src="https://skillicons.dev/icons?i=azure,windows" />&nbsp;&nbsp;<img width="180" height="67" alt="osTicket Logo" src="https://github.com/user-attachments/assets/52bad22a-c832-43fe-bfc2-49d830cf4084" />
+
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop

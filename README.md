@@ -63,6 +63,10 @@ http://localhost/osTicket
 5. Click on "More" in the top-right corner and select "Delect"
 
 
+<img width="362" height="333" alt="Step 1 Ticket life cycle maintenace delete depart" src="https://github.com/user-attachments/assets/c80323f5-d206-4223-a163-0fc728261db1" />
+
+
+
 
 
 <h4>2. TICKET CREATION AND REVIEW</h4>

@@ -15,23 +15,20 @@ This project expands on the previous osTicket configuration lab by moving beyond
 <img src="https://skillicons.dev/icons?i=azure,windows" />&nbsp;&nbsp;<img width="180" height="67" alt="osTicket Logo" src="https://github.com/user-attachments/assets/52bad22a-c832-43fe-bfc2-49d830cf4084" />
 
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- osTicket
-
-<h2>Operating Systems Used </h2>
-
-- Windows 10 (22H2)
+- Hosting: Microsoft Azure (Virtual Machines/Compute)
+- Access Methods: Remote Desktop
+- Platform: osTicket
+- Operating Systems: Windows 10/11 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 
 **Key Actions**
-- Clean up initial osTicket configuration to ensure tickets route correctly
-- Create and review a ticket as an end user and a limited-permission agent
-- Simulate ticket triage, escalation, and role-based access changes
-- Transfer the ticket to the appropriate department for resolution
-- Resolve and close the ticket after verifying service restoration
+1. Clean up initial osTicket configuration to ensure tickets route correctly.
+2. Create and review a ticket as an end user and a limited-permission agent.
+3. Simulate ticket triage, escalation, and role-based access changes.
+4. Transfer the ticket to the appropriate department for resolution.
+5. Resolve and close the ticket after verifying service restoration.
 
 > [!IMPORTANT]
 > Each step includes written instructions followed by a corresponding screenshot.
@@ -49,17 +46,28 @@ http://localhost/osTicket
 
 <h2>osTicket Configurations</h2> 
 
-<h3>1. DELETE DEFAULT DEPARTMENT</h3>
+<h3>DELETE DEFAULT DEPARTMENT</h3>
 <p>We need to delete the default Maintenance Department, as new tickets get automatically assigned to this department and not to the departments we created in the prior lab. In Admin panel, select Agents tab, select Department section. Select the Maintenance Department, and select More near the top-right, and select Delete.</p>
+1. Log into the osTicket Admin panel.
+2. Navigate to the "Agents" tab.
+3. Select the "Departments" section.
+4. Choose the "Maintenance Departmengt".
+5. Click on "More" in the top-right corner and select "Delect"
 
 <img width="342" height="333" alt="Step 1 Ticket life cycle maintenace delete depart" src="https://github.com/user-attachments/assets/7d166bfd-724b-479d-be33-ac52e6a1df76" />
 
 
-<h3>2. TICKET CREATION AND REVIEW</h3>
+<h4>2. TICKET CREATION AND REVIEW</h4>
 <p>End-user reports that the online banking system is down.
-
 Login the End Users osTicket URL and as an end-user, Karen, open a new ticket. Intentionally choose the proper Help Topic, General Inquiry/Other and then actually explain the online banking system is down, and submit.  </p>
-
+- Instructions:
+1. Access the End User osTicket URL.
+2. Log in as "Karen", the end user.
+3. Create a new ticket, selecting "General Inquiry/Other" as the Help Topic and describing the online banking system outage.
+4. Submit the ticket.
+5. Log intothe Admin portal as "Sam Hancock"
+6. Review the ticket and leave an internal note:
+ -"This ticket requires elevated permissions. I will reach out to the SysAdmin department to request a role upgrade".
 <img width="374" height="333" alt="Step 3 Ticket Life cycle creating ticket in the end user portal" src="https://github.com/user-attachments/assets/fa14fcc3-3508-4419-81f8-060628bea4f8" />
 
 
@@ -74,9 +82,19 @@ Let's leave a note, <i>"This ticket requires elevated permissions. I will reach 
 
 In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simulate, Sam leaving a note, reaching out to the department by external email to request elevated permissions to his account.
 
-<h3>3. TICKET TRIAGING AND ESCALTION SIMULATION</h3>
-
-Logout as Sam, and log back in as the Admin user, and elevate Sam to Super Admin role. Log back in as Sam, and we'll triage the ticket as best as we can as Tier I support Agent. Update priority to Emergency, and the reason for update: <i>"Called Joann and confirmed all tellers systems have been down since lunch."</i>. Update the SLA Plan to Sev-A, as the issue is Business Critical. Update the Help Topic to Business Critical Outage and note <i>"Entire branch system is offline."</i> In response text field, explain the steps taken, and advise "Escalating and assigning ticket to SysAdmin Department after triaging." and Post Reply.  Lastly, assign the ticket to Susan Smith, transfer the ticket out of Support Department and into SysAdmin Department. 
+<h5>TICKET TRIAGING AND ESCALTION SIMULATION</h5>
+- Objective: Triage the ticket and escalate it to the SysAdmin department.
+- Instructions:
+  1. Logout as Sam and log in as the Admin user.
+  2. Elevate Sam's role to "Super Admin".
+  3. Log back in as Sam.
+  4. Update the ticket's priority to "Emergency"
+  with the note:
+      - "Called Joann and confirmed all teller systems have been down since lunch."
+  5. Change the SLA Plan to "Sev-A" and the Help Topic to "Business Critical Outage"
+  6. In response field, explain the steps taken and advise:
+      -"Escalating and assigning ticket to SysAdmin Department after triaging."
+  7. Post the reply and assign the ticket to "Susan Smith", transferring it to the "SysAdmin Department".
 
 <img width="383" height="312" alt="Step 9 Life cycle in Level 1 changing priority status" src="https://github.com/user-attachments/assets/bcb29ca4-7e24-4fc7-99da-700a932e7ff4" /><img width="370" height="302" alt="Step 10 Life cycle Level 1 put notes in the Priority" src="https://github.com/user-attachments/assets/e59d8949-a76f-482f-94ea-f1e5f2a6a38d" /><img width="317" height="336" alt="Step 11 Life cycle updating the SLA and putting in notes" src="https://github.com/user-attachments/assets/a74e6a23-64bf-4737-bfff-0cf8a2bd4d49" /><img width="304" height="307" alt="Step 12 Life cycle post reply button to escalate ticket to SysAdmin" src="https://github.com/user-attachments/assets/ed90ee19-f225-43ca-b438-50c105b8891c" />
 
@@ -89,9 +107,18 @@ Logout as Sam, and log back in as the Admin user, and elevate Sam to Super Admin
 <img width="392" height="299" alt="Step 13 Life cycle Ticket the reassignment of depart Lev 1,2, or SysAdmin" src="https://github.com/user-attachments/assets/40bf72fd-5409-4413-9612-ece6b1ba21a9" />
 
 
-<h3>4. TICKET RESOLUTION</h3>
-
-Logout as Sam, and log back in as Susan, our SysAdmin. Review the ticket as Susan, and observe the timeline, review the actions and notes given by Joann and Sam. 
+<h6>TICKET RESOLUTION</h6>
+- Objective: Resolve the ticket based on actions taken by the SysAdmin.
+  - Instructions:
+   1. Logout as Sam and log in as "Susan", the SysAdmin.
+   2. Review the ticket timeline and notes from Joann and Sam.
+   3. Document the cause of the outage in the ticket reply:
+    -"We accidentally restarted the online banking system's backend server during business hours due to a configuration issue."
+   4. Restart the backend server and verify service restoration.
+   5. Post an update:
+      -"Server successfully restarted. Online banking systems appear to be operational. Confirmed with Joann. Do closing ticket"
+   6. Set the Ticket status to "Resolved".
+   7. Logout as Sam, and log back in as Susan, our SysAdmin. Review the ticket as Susan, and observe the timeline, review the actions and notes given by Joann and Sam. 
 
 <img width="356" height="283" alt="Step 14 Life cycle Transferring Ticket to SysAdmin based on issue" src="https://github.com/user-attachments/assets/21556fa2-983b-4709-8489-25e7d23d1498" /><img width="334" height="327" alt="Step 15 Life cycle logged in as SysAdmin susan" src="https://github.com/user-attachments/assets/59d04b67-4403-4880-9214-964207dcb0b7" /><img width="325" height="395" alt="Step 16 Life cycle as SysAdmin looking at the Notes" src="https://github.com/user-attachments/assets/91461621-be1e-4850-bce0-815a52dc2ce1" />
 
@@ -118,5 +145,3 @@ In this scenario, Susan restarts the server and verifies the online banking syst
 
 > [!NOTE]
 > In osTicket, setting a ticket’s status to Resolved automatically marks the ticket as Closed. Other ticketing systems may separate these steps, where a ticket is marked as Resolved after a fix is applied and Closed only after confirmation that no further action is required.
-
-> 

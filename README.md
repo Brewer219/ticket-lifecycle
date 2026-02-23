@@ -124,8 +124,10 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 
 
 
-> [!NOTE]
-> Examine that Sam no longer has access to the original ticket, because of how our permissions are configured.
+ 
+  
+    
+>[!NOTE]: Examine that Sam no longer has access to the original ticket, because of how our permissions are configured.
 
 
 
@@ -155,13 +157,27 @@ Post the following message as a ticket reply:
 
 
 
+    <img width="372" height="377" alt="Step 17 Life cycle SysAdmin documenting fix solution in Post Reply section" src="https://github.com/user-attachments/assets/727158a5-675a-4dd2-a453-4c33a27fb5ac" />
+
+
+
+
 
 In this scenario, Susan restarts the server and verifies the online banking system status. Once service is confirmed to be restored, post the following update:
 “Server successfully restarted. Online banking systems appear to be operational. Confirmed with Karen. Do closing ticket." Set the ticket status to Resolved. 
 
 
+    <img width="324" height="366" alt="Step 18 Life cycle Finished Documenting Post Reply" src="https://github.com/user-attachments/assets/f0d60bb5-ca1b-4a1a-a42e-90e61508db2e" />
 
 
 
-> [!NOTE]
-> In osTicket, setting a ticket’s status to Resolved automatically marks the ticket as Closed. Other ticketing systems may separate these steps, where a ticket is marked as Resolved after a fix is applied and Closed only after confirmation that no further action is required.
+
+
+
+> [!NOTE]: In osTicket, setting a ticket’s status to Resolved automatically marks the ticket as Closed. Other ticketing systems may separate these steps, where a ticket is marked as Resolved after a fix is applied and Closed only after confirmation that no further action is required.
+
+
+
+<img width="353" height="293" alt="Step 21 Life cycle Ticket status closed resolved" src="https://github.com/user-attachments/assets/8120aa4e-d747-4deb-8838-8c7666d4ecd6" />
+
+    

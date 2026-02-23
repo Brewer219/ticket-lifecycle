@@ -34,8 +34,11 @@ This project expands on the previous osTicket configuration lab by moving beyond
 > Each step includes written instructions followed by a corresponding screenshot.
 <br>Expand the **See screenshots** section to view the images.
 
-<img width="332" height="374" alt="Step 2 Ticket Life cycle-open new ticket" src="https://github.com/user-attachments/assets/dfbd2ed5-95bd-4d7a-a728-3eb0d462eeee" />
-<img width="351" height="394" alt="Step 4 Ticket Life Cycle Ticket successfully created" src="https://github.com/user-attachments/assets/c280b0cf-882d-4d8c-a10e-073e58eb7f46" />
+<img width="332" height="354" alt="Step 2 Ticket Life cycle-open new ticket" src="https://github.com/user-attachments/assets/dfbd2ed5-95bd-4d7a-a728-3eb0d462eeee" />
+
+<img width="344" height="333" alt="Step 3 Ticket Life cycle creating ticket in the end user portal" src="https://github.com/user-attachments/assets/8e870cc0-149c-4fc3-8d71-d6fc07ceadf6" />
+
+<img width="351" height="354" alt="Step 4 Ticket Life Cycle Ticket successfully created" src="https://github.com/user-attachments/assets/c280b0cf-882d-4d8c-a10e-073e58eb7f46" />
 
 
 

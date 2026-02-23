@@ -60,7 +60,7 @@ http://localhost/osTicket
 2. Navigate to the "Agents" tab.
 3. Select the "Departments" section.
 4. Choose the "Maintenance Departmengt".
-5. Click on "More" in the top-right corner and select "Delect"
+5. Click on "More" in the top-right corner and select "Delete"
 
 
 <img width="362" height="333" alt="Step 1 Ticket life cycle maintenace delete depart" src="https://github.com/user-attachments/assets/c80323f5-d206-4223-a163-0fc728261db1" />
@@ -81,11 +81,19 @@ Login the End Users osTicket URL and as an end-user, Karen, open a new ticket. I
 6. Review the ticket and leave an internal note:
  -"This ticket requires elevated permissions. I will reach out to the SysAdmin department to request a role upgrade".
 
+ 
+
+<img width="303" height="330" alt="Step 6 Ticket Life cycle what the ticket look like inside that was created" src="https://github.com/user-attachments/assets/eb641e2b-2f48-471c-8662-540e4ff59a43" />
 
 
 Login into the Admin portal as Sam Hancock. Do the Reviewing of the ticket. Then do the Observation that Sam can only view the ticket, and leave an internal note.  
+<img width="376" height="392" alt="Step 7 Life cycle Internal note section to type" src="https://github.com/user-attachments/assets/961cbb10-cd56-4923-9243-f7745438d320" />
+
 
 Let's leave a note, <i>"This ticket requires elevated permissions. I will reach out to the SysAdmin department to request a role upgrade"</i>
+
+<img width="368" height="307" alt="Step 8 Life cycle Giving all access to Sam as SysAdmin" src="https://github.com/user-attachments/assets/9ff853fb-9acd-4e9a-a000-cbdd0f276c27" />
+
 
 
 

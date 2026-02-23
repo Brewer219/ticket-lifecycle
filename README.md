@@ -113,6 +113,11 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
       -"Escalating and assigning ticket to SysAdmin Department after triaging."
   7. Post the reply and assign the ticket to "Susan Smith", transferring it to the "SysAdmin Department".
 
+<img width="325" height="375" alt="Step 16 Life cycle as SysAdmin looking at the Notes" src="https://github.com/user-attachments/assets/88b845d6-8ce2-4906-8975-2805a9d936f4" />
+
+
+
+
 
 
 

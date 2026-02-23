@@ -156,8 +156,10 @@ Post the following message as a ticket reply:
 “We accidentally restarted the online banking system’s backend server during business hours due to a configuration issue. We will review the settings and attempt to restart the service.”
 
 
+<img width="372" height="387" alt="Step 17 Life cycle SysAdmin documenting fix solution in Post Reply section" src="https://github.com/user-attachments/assets/fdbc4ba5-d618-4f22-90e1-35e256809c8c" />
 
-    <img width="372" height="377" alt="Step 17 Life cycle SysAdmin documenting fix solution in Post Reply section" src="https://github.com/user-attachments/assets/727158a5-675a-4dd2-a453-4c33a27fb5ac" />
+
+   
 
 
 
@@ -167,7 +169,8 @@ In this scenario, Susan restarts the server and verifies the online banking syst
 “Server successfully restarted. Online banking systems appear to be operational. Confirmed with Karen. Do closing ticket." Set the ticket status to Resolved. 
 
 
-    <img width="324" height="366" alt="Step 18 Life cycle Finished Documenting Post Reply" src="https://github.com/user-attachments/assets/f0d60bb5-ca1b-4a1a-a42e-90e61508db2e" />
+<img width="324" height="376" alt="Step 18 Life cycle Finished Documenting Post Reply" src="https://github.com/user-attachments/assets/ac6c422a-ac0e-4b16-b6ea-b2ef6bd569b7" />
+
 
 
 

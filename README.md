@@ -34,9 +34,14 @@ This project expands on the previous osTicket configuration lab by moving beyond
 > Each step includes written instructions followed by a corresponding screenshot.
 <br>Expand the **See screenshots** section to view the images.
 
+<img width="332" height="374" alt="Step 2 Ticket Life cycle-open new ticket" src="https://github.com/user-attachments/assets/dfbd2ed5-95bd-4d7a-a728-3eb0d462eeee" />
+<img width="351" height="394" alt="Step 4 Ticket Life Cycle Ticket successfully created" src="https://github.com/user-attachments/assets/c280b0cf-882d-4d8c-a10e-073e58eb7f46" />
 
-> [!NOTE] 
-> This project builds upon a prior lab where the Azure environment, virtual machine, osTicket and various users and teams were created. <br /> **[Part 2. osTicket: Configurations](https://github.com/MikeSays-1/osTicket-Config/)**
+
+
+
+
+
 
 **Admin/Analyst/Agent Login Page:**
 http://localhost/osTicket/scp/login.php 

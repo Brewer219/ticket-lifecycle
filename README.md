@@ -34,6 +34,12 @@ This project expands on the previous osTicket configuration lab by moving beyond
 > Each step includes written instructions followed by a corresponding screenshot.
 <br>Expand the **See screenshots** section to view the images.
 
+<details><summary>See screenshots</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+
 <img width="332" height="354" alt="Step 2 Ticket Life cycle-open new ticket" src="https://github.com/user-attachments/assets/dfbd2ed5-95bd-4d7a-a728-3eb0d462eeee" />
 
 <img width="344" height="333" alt="Step 3 Ticket Life cycle creating ticket in the end user portal" src="https://github.com/user-attachments/assets/8e870cc0-149c-4fc3-8d71-d6fc07ceadf6" />
@@ -60,7 +66,12 @@ http://localhost/osTicket
 2. Navigate to the "Agents" tab.
 3. Select the "Departments" section.
 4. Choose the "Maintenance Departmengt".
-5. Click on "More" in the top-right corner and select "Delete"
+5. Click on "More" in the top-right corner and select "Delete".
+
+<details><summary>See screenshots</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
 
 
 <img width="362" height="333" alt="Step 1 Ticket life cycle maintenace delete depart" src="https://github.com/user-attachments/assets/c80323f5-d206-4223-a163-0fc728261db1" />
@@ -80,6 +91,11 @@ Login the End Users osTicket URL and as an end-user, Karen, open a new ticket. I
 5. Log intothe Admin portal as "Sam Hancock"
 6. Review the ticket and leave an internal note:
  -"This ticket requires elevated permissions. I will reach out to the SysAdmin department to request a role upgrade".
+
+ <details><summary>See screenshots</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
 
  
 
@@ -112,6 +128,11 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
   6. In response field, explain the steps taken and advise:
       -"Escalating and assigning ticket to SysAdmin Department after triaging."
   7. Post the reply and assign the ticket to "Susan Smith", transferring it to the "SysAdmin Department".
+
+  <details><summary>See screenshots</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
 
 <img width="325" height="375" alt="Step 16 Life cycle as SysAdmin looking at the Notes" src="https://github.com/user-attachments/assets/88b845d6-8ce2-4906-8975-2805a9d936f4" />
 
@@ -155,6 +176,11 @@ Post the following message as a ticket reply:
 
 “We accidentally restarted the online banking system’s backend server during business hours due to a configuration issue. We will review the settings and attempt to restart the service.”
 
+<details><summary>See screenshots</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
 
 <img width="372" height="387" alt="Step 17 Life cycle SysAdmin documenting fix solution in Post Reply section" src="https://github.com/user-attachments/assets/fdbc4ba5-d618-4f22-90e1-35e256809c8c" />
 
@@ -167,6 +193,10 @@ Post the following message as a ticket reply:
 
 In this scenario, Susan restarts the server and verifies the online banking system status. Once service is confirmed to be restored, post the following update:
 “Server successfully restarted. Online banking systems appear to be operational. Confirmed with Karen. Do closing ticket." Set the ticket status to Resolved. 
+<details><summary>See screenshots</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
 
 
 <img width="324" height="376" alt="Step 18 Life cycle Finished Documenting Post Reply" src="https://github.com/user-attachments/assets/ac6c422a-ac0e-4b16-b6ea-b2ef6bd569b7" />
@@ -178,7 +208,10 @@ In this scenario, Susan restarts the server and verifies the online banking syst
 
 
 > [!NOTE]: In osTicket, setting a ticket’s status to Resolved automatically marks the ticket as Closed. Other ticketing systems may separate these steps, where a ticket is marked as Resolved after a fix is applied and Closed only after confirmation that no further action is required.
+<details><summary>See screenshots</summary>
 
+<img src="images/Step 2b.png" width="60%">
+</details>
 
 
 <img width="353" height="293" alt="Step 21 Life cycle Ticket status closed resolved" src="https://github.com/user-attachments/assets/8120aa4e-d747-4deb-8838-8c7666d4ecd6" />

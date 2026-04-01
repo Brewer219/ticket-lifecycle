@@ -42,23 +42,17 @@ This project expands on the previous osTicket configuration lab by moving beyond
 </details>
 
 
-<img width="332" height="354" alt="Step 2 Ticket Life cycle-open new ticket" src="https://github.com/user-attachments/assets/dfbd2ed5-95bd-4d7a-a728-3eb0d462eeee" />
-
-<img width="344" height="333" alt="Step 3 Ticket Life cycle creating ticket in the end user portal" src="https://github.com/user-attachments/assets/8e870cc0-149c-4fc3-8d71-d6fc07ceadf6" />
-
-<img width="351" height="354" alt="Step 4 Ticket Life Cycle Ticket successfully created" src="https://github.com/user-attachments/assets/c280b0cf-882d-4d8c-a10e-073e58eb7f46" />
-
-
-
-
-
-
 
 **Admin/Analyst/Agent Login Page:**
 http://localhost/osTicket/scp/login.php 
+<img width="321" height="467" alt="osTicket Help Desk" src="https://github.com/user-attachments/assets/d290add1-c842-4636-b4f6-4c5149e0ee98" />
+
+
 
 **End Users osTicket URL:**
 http://localhost/osTicket 
+<img width="321" height="467" alt="osTicket End User page setup for Users to submit tickets" src="https://github.com/user-attachments/assets/310e9190-5427-494e-8756-eff00cb37640" />
+
 
 <h2>osTicket Configurations</h2> 
 

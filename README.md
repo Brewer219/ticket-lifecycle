@@ -147,19 +147,37 @@ Let's leave a note, <i>"This ticket requires elevated permissions. I will reach 
 
 In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simulate, Sam leaving a note, reaching out to the department by external email to request elevated permissions to his account.
 
-<details><summary>See screenshots</summary>
+<details><summary>See screenshot 1</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
 <img width="321" height="467" alt="online banking system is down" src="https://github.com/user-attachments/assets/5f128624-6b11-436e-8fc2-d1baa66cba2d" />
 
-<details><summary>See screenshots</summary>
+<details><summary>See screenshot 2</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
 <img width="321" height="467" alt="Joann ticket was successfully created" src="https://github.com/user-attachments/assets/c9862c0c-7ffc-4339-8432-1efc1fe053a0" />
+
+
+<details><summary>See screenshot 3</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Online Banking system was generated in osTicket" src="https://github.com/user-attachments/assets/e81becb4-0588-4bba-ac32-d3763f259819" />
+
+
+<details><summary>See screenshot 4</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Triaging Samuels Ticket" src="https://github.com/user-attachments/assets/65a6c15a-9ab0-4255-ad4c-436f209e8c62" />
+
+
 
 
 

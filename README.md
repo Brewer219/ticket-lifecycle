@@ -129,35 +129,34 @@ http://localhost/osTicket
 Login the End Users osTicket URL and as an end-user, Karen, open a new ticket. Intentionally choose the proper Help Topic, General Inquiry/Other and then actually explain the online banking system is down, and submit.  </p>
 - Instructions:
 1. Access the End User osTicket URL.
-2. Log in as "Karen", the end user.
+2. Log in as "Joann", the end user.
 3. Create a new ticket, selecting "General Inquiry/Other" as the Help Topic and describing the online banking system outage.
 4. Submit the ticket.
 5. Log intothe Admin portal as "Sam Hancock"
 6. Review the ticket and leave an internal note:
  -"This ticket requires elevated permissions. I will reach out to the SysAdmin department to request a role upgrade".
+Login into the Admin portal as Samuel Hancock. Do the Reviewing of the ticket. Then do the Observation that Sam can only view the ticket, and leave an internal note.  
 
- <details><summary>See screenshots</summary>
-
-<img src="images/Step 2b.png" width="60%">
-</details>
-
- 
-
-<img width="303" height="330" alt="Step 6 Ticket Life cycle what the ticket look like inside that was created" src="https://github.com/user-attachments/assets/eb641e2b-2f48-471c-8662-540e4ff59a43" />
-
-
-Login into the Admin portal as Sam Hancock. Do the Reviewing of the ticket. Then do the Observation that Sam can only view the ticket, and leave an internal note.  
-<img width="376" height="392" alt="Step 7 Life cycle Internal note section to type" src="https://github.com/user-attachments/assets/961cbb10-cd56-4923-9243-f7745438d320" />
 
 
 Let's leave a note, <i>"This ticket requires elevated permissions. I will reach out to the SysAdmin department to request a role upgrade"</i>
 
-<img width="368" height="307" alt="Step 8 Life cycle Giving all access to Sam as SysAdmin" src="https://github.com/user-attachments/assets/9ff853fb-9acd-4e9a-a000-cbdd0f276c27" />
 
 
 
 
 In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simulate, Sam leaving a note, reaching out to the department by external email to request elevated permissions to his account.
+
+<details><summary>See screenshots</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+
+
+
+
+
 
 <h5>TICKET TRIAGING AND ESCALTION SIMULATION</h5>
 - Objective: Triage the ticket and escalate it to the SysAdmin department.

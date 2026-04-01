@@ -132,7 +132,7 @@ Login the End Users osTicket URL and as an end-user, Karen, open a new ticket. I
 2. Log in as "Joann", the end user.
 3. Create a new ticket, selecting "General Inquiry/Other" as the Help Topic and describing the online banking system outage.
 4. Submit the ticket.
-5. Log intothe Admin portal as "Sam Hancock"
+5. Log into the Admin portal as "Samuel Hancock"
 6. Review the ticket and leave an internal note:
  -"This ticket requires elevated permissions. I will reach out to the SysAdmin department to request a role upgrade".
 Login into the Admin portal as Samuel Hancock. Do the Reviewing of the ticket. Then do the Observation that Sam can only view the ticket, and leave an internal note.  
@@ -174,47 +174,47 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="Inside Samuel tech support ticket in changing the Priority from Normal to Emergency status" src="https://github.com/user-attachments/assets/2d3662e4-a735-466d-9fac-3f83e3688cbf" />
-
-
-<details><summary>See screenshot 5</summary>
-
-<img src="images/Step 2b.png" width="60%">
-</details>
+<img width="321" height="467" alt="Samuel doing a Ticket Review" src="https://github.com/user-attachments/assets/ab7161bf-c474-41a2-be2f-689bd55f7e50" />
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<h5>TICKET TRIAGING AND ESCALTION SIMULATION</h5>
+## <h5>TICKET TRIAGING AND ESCALTION SIMULATION</h5>
 - Objective: Triage the ticket and escalate it to the SysAdmin department.
 - Instructions:
-  1. Logout as Sam and log in as the Admin user.
-  2. Elevate Sam's role to "Super Admin".
-  3. Log back in as Sam.
-  4. Update the ticket's priority to "Emergency"
+  1. Log  in as Sam.
+  2. Update the ticket's priority to "Emergency"
   with the note:
       - "Called Joann and confirmed all teller systems have been down since lunch."
-  5. Change the SLA Plan to "Sev-A" and the Help Topic to "Business Critical Outage"
-  6. In response field, explain the steps taken and advise:
+  3. Change the SLA Plan to "Sev-A" and the Help Topic to "Business Critical Outage"
+  4. In response field, explain the steps taken and advise:
       -"Escalating and assigning ticket to SysAdmin Department after triaging."
-  7. Post the reply and assign the ticket to "Susan Smith", transferring it to the "SysAdmin Department".
+  5. Post the reply and assign the ticket to "Susan Smith", transferring it to the "SysAdmin Department".
 
-  <details><summary>See screenshots</summary>
+  <details><summary>See screenshot 1</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="325" height="375" alt="Step 16 Life cycle as SysAdmin looking at the Notes" src="https://github.com/user-attachments/assets/88b845d6-8ce2-4906-8975-2805a9d936f4" />
+
+<img width="321" height="467" alt="Inside Samuel tech support ticket in changing the Priority from Normal to Emergency status" src="https://github.com/user-attachments/assets/d48687d4-cb68-4113-ba3c-8f1950503190" />
+
+ <details><summary>See screenshot 2</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

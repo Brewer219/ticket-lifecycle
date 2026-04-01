@@ -167,14 +167,6 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="Online Banking system was generated in osTicket" src="https://github.com/user-attachments/assets/e81becb4-0588-4bba-ac32-d3763f259819" />
-
-
-<details><summary>See screenshot 4</summary>
-
-<img src="images/Step 2b.png" width="60%">
-</details>
-
 <img width="321" height="467" alt="Triaging Samuels Ticket" src="https://github.com/user-attachments/assets/65a6c15a-9ab0-4255-ad4c-436f209e8c62" />
 
 

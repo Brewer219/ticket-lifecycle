@@ -69,13 +69,32 @@ http://localhost/osTicket
 4. Choose the "Maintenance Departmengt".
 5. Click on "More" in the top-right corner and select "Delete".
 
-<details><summary>See screenshots</summary>
+<details><summary>See screenshot 1</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
+<img width="321" height="467" alt="osTicket click &#39;Admin Panel&#39;" src="https://github.com/user-attachments/assets/8d4306a1-4144-47b1-a338-52c34ee58611" />
 
-<img width="362" height="333" alt="Step 1 Ticket life cycle maintenace delete depart" src="https://github.com/user-attachments/assets/c80323f5-d206-4223-a163-0fc728261db1" />
+<details><summary>See screenshot 2</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Going from Users page to Admin Panel click &#39;Manage&#39; tab" src="https://github.com/user-attachments/assets/74deda8d-b2da-44ba-803d-31979f71a4d8" />
+
+<details><summary>See screenshot 3</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Maintenace being deleted" src="https://github.com/user-attachments/assets/35859db2-5300-4819-9b91-aa5e4ea36ba5" />
+
+
+
+
+
+
 
 
 

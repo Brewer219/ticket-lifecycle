@@ -203,36 +203,37 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <img src="images/Step 2b.png" width="60%">
 </details>
 
+<img width="321" height="467" alt="Explaining the Business Outage and updating Help Topic" src="https://github.com/user-attachments/assets/6e4503e9-695a-4207-b7a8-3fed97d3a9fc" />
+
+ <details><summary>See screenshot 3</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Traiaging Joanns SLAs for update as Business Critical" src="https://github.com/user-attachments/assets/86dec404-6df8-43b5-9091-ffeaaeab9a2e" />
+
+<details><summary>See screenshot 4</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Assigning ticket to SysAdmin Susan" src="https://github.com/user-attachments/assets/f139176b-d333-42ad-a1a9-988fe6db4d51" />
+
+<details><summary>See screenshot 5</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Transfer to Susan the SysAdmin" src="https://github.com/user-attachments/assets/8159cb91-3868-4344-92a5-89d4b5a77bf8" />
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-  
     
->[!NOTE]: Examine that Sam no longer has access to the original ticket, because of how our permissions are configured.
+>[!NOTE]: Examine that Samuel no longer has access to the original ticket, because of how our permissions are configured and it was now trasnferred to Susan Smith as the System Admin.
 
 
 
-<h6>TICKET RESOLUTION</h6>
+## <h6>TICKET RESOLUTION</h6>
 - Objective: Resolve the ticket based on actions taken by the SysAdmin.
   - Instructions:
    1. Logout as Sam and log in as "Susan", the SysAdmin.

@@ -152,6 +152,18 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <img src="images/Step 2b.png" width="60%">
 </details>
 
+<img width="321" height="467" alt="online banking system is down" src="https://github.com/user-attachments/assets/5f128624-6b11-436e-8fc2-d1baa66cba2d" />
+
+<details><summary>See screenshots</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Joann ticket was successfully created" src="https://github.com/user-attachments/assets/c9862c0c-7ffc-4339-8432-1efc1fe053a0" />
+
+
+
+
 
 
 

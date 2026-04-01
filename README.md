@@ -91,7 +91,25 @@ http://localhost/osTicket
 <img width="321" height="467" alt="Maintenace being deleted" src="https://github.com/user-attachments/assets/35859db2-5300-4819-9b91-aa5e4ea36ba5" />
 
 
+<details><summary>See screenshot 4</summary>
 
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Deleting the Maintenance Depart" src="https://github.com/user-attachments/assets/6d2a79f2-1a5d-4719-aa19-299743530dbb" />
+
+<details><summary>See screenshot 5</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Confirm Deleting the Maintence depart" src="https://github.com/user-attachments/assets/034dc4ce-1742-40e2-a0ef-43f7d5cb9110" />
+
+<details><summary>See screenshot 6</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+<img width="321" height="467" alt="Maintence Depart successfully deleted in Departments Tab" src="https://github.com/user-attachments/assets/61fd96fd-62c6-40a0-8262-8ac2742414c6" />
 
 
 

@@ -1,4 +1,5 @@
-<img width="678" height="362" alt="osTicket image Logo" src="https://github.com/user-attachments/assets/442ebb55-7efe-4ec3-8c41-3c1219bb18ba" />
+<img width="625" height="362" alt="osTicket Logo" src="https://github.com/user-attachments/assets/78033097-08a8-47cd-af0e-103d201a7007" />
+
 
 
 <h1>osTicket Ticket Lifecycle Simulation</h1>

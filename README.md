@@ -169,6 +169,22 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 
 <img width="321" height="467" alt="Triaging Samuels Ticket" src="https://github.com/user-attachments/assets/65a6c15a-9ab0-4255-ad4c-436f209e8c62" />
 
+<details><summary>See screenshot 4</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+
+<img width="321" height="467" alt="Updating Priorities and Emergencie Triaging Banking System Ticket" src="https://github.com/user-attachments/assets/e441237a-c9db-47de-9016-50f4b793a7a5" />
+
+
+<details><summary>See screenshot 5</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+
+
 
 
 

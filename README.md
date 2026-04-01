@@ -36,17 +36,25 @@ This project expands on the previous osTicket configuration lab by moving beyond
 > Each step includes written instructions followed by a corresponding screenshot.
 <br>Expand the **See screenshots** section to view the images.
 
-<details><summary>See screenshots</summary>
-
-<img src="images/Step 2b.png" width="60%">
-</details>
 
 
 
 **Admin/Analyst/Agent Login Page:**
-http://localhost/osTicket/scp/login.php 
+http://localhost/osTicket/scp/login.php
+
+<details><summary>See screenshots</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
 <img width="321" height="467" alt="osTicket Help Desk" src="https://github.com/user-attachments/assets/d290add1-c842-4636-b4f6-4c5149e0ee98" />
 
+
+
+
+
+**End Users osTicket URL:**
+http://localhost/osTicket
 
 <details><summary>See screenshots</summary>
 
@@ -54,8 +62,6 @@ http://localhost/osTicket/scp/login.php
 </details>
 
 
-**End Users osTicket URL:**
-http://localhost/osTicket 
 <img width="321" height="467" alt="osTicket End User page setup for Users to submit tickets" src="https://github.com/user-attachments/assets/310e9190-5427-494e-8756-eff00cb37640" />
 
 

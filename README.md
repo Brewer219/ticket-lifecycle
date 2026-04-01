@@ -48,6 +48,11 @@ http://localhost/osTicket/scp/login.php
 <img width="321" height="467" alt="osTicket Help Desk" src="https://github.com/user-attachments/assets/d290add1-c842-4636-b4f6-4c5149e0ee98" />
 
 
+<details><summary>See screenshots</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
 
 **End Users osTicket URL:**
 http://localhost/osTicket 

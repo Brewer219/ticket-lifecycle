@@ -1,4 +1,5 @@
-<img width="365" height="331" alt="Microsoft Active Directory Logo" src="https://github.com/user-attachments/assets/d59c7b9a-08ac-49d7-b186-bef10d5e27c7" />
+<img width="678" height="362" alt="osTicket image Logo" src="https://github.com/user-attachments/assets/442ebb55-7efe-4ec3-8c41-3c1219bb18ba" />
+
 
 <h1>osTicket Ticket Lifecycle Simulation</h1>
 This project expands on the previous osTicket configuration lab by moving beyond setup and into a realistic end-to-end ticket lifecycle. Building on previously created departments, roles, and permissions, this scenario simulates a business-critical outage from initial end-user ticket creation through triage, escalation, role-based access changes, and final resolution. The lab emphasizes proper permission boundaries, escalation procedures, SLA prioritization, and real-world support workflows across Tier I and SysAdmin roles.<br />

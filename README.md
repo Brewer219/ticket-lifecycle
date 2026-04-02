@@ -82,14 +82,8 @@ http://localhost/osTicket
 
 <img width="321" height="467" alt="osTicket click &#39;Admin Panel&#39;" src="https://github.com/user-attachments/assets/8d4306a1-4144-47b1-a338-52c34ee58611" />
 
+
 <details><summary>See screenshot 2</summary>
-
-<img src="images/Step 2b.png" width="60%">
-</details>
-
-<img width="321" height="467" alt="Going from Users page to Admin Panel click &#39;Manage&#39; tab" src="https://github.com/user-attachments/assets/74deda8d-b2da-44ba-803d-31979f71a4d8" />
-
-<details><summary>See screenshot 3</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
@@ -97,21 +91,21 @@ http://localhost/osTicket
 <img width="321" height="467" alt="Maintenace being deleted" src="https://github.com/user-attachments/assets/35859db2-5300-4819-9b91-aa5e4ea36ba5" />
 
 
-<details><summary>See screenshot 4</summary>
+<details><summary>See screenshot 3</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
 <img width="321" height="467" alt="Deleting the Maintenance Depart" src="https://github.com/user-attachments/assets/6d2a79f2-1a5d-4719-aa19-299743530dbb" />
 
-<details><summary>See screenshot 5</summary>
+<details><summary>See screenshot 4</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
 <img width="321" height="467" alt="Confirm Deleting the Maintence depart" src="https://github.com/user-attachments/assets/034dc4ce-1742-40e2-a0ef-43f7d5cb9110" />
 
-<details><summary>See screenshot 6</summary>
+<details><summary>See screenshot 5</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>

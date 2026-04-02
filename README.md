@@ -235,12 +235,13 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
   4. In response field, explain the steps taken and advise:
       -"Escalating and assigning ticket to SysAdmin Department after triaging."
   5. Post the reply and assign the ticket to "Susan Smith", transferring it to the "SysAdmin Department".
-
-  <details><summary>See screenshot 1</summary>
+ 
+     <details><summary>See screenshot 1</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
+ 
 <img width="321" height="467" alt="Triaging Samuels Ticket" src="https://github.com/user-attachments/assets/2a996241-a071-410b-814f-a877fc53a613" />
 
 

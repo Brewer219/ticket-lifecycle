@@ -152,29 +152,75 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="online banking system is down" src="https://github.com/user-attachments/assets/5f128624-6b11-436e-8fc2-d1baa66cba2d" />
+<img width="321" height="467" alt="Triaging Samuels Ticket" src="https://github.com/user-attachments/assets/a3787f37-0b52-4b1a-9490-755fbe55ead6" />
+
 
 <details><summary>See screenshot 2</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="Joann ticket was successfully created" src="https://github.com/user-attachments/assets/c9862c0c-7ffc-4339-8432-1efc1fe053a0" />
-
+<img width="321" height="467" alt="Samuel doing a Ticket Review" src="https://github.com/user-attachments/assets/4c4d6653-3f3b-4a2d-8e22-b7ebc5c2746f" />
 
 <details><summary>See screenshot 3</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="Triaging Samuels Ticket" src="https://github.com/user-attachments/assets/65a6c15a-9ab0-4255-ad4c-436f209e8c62" />
+<img width="321" height="467" alt="Inside Samel portal posting the test and &#39;Read Only&#39; access" src="https://github.com/user-attachments/assets/409936c1-b427-4ee5-a16e-3ce508f19686" />
 
 <details><summary>See screenshot 4</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="Samuel doing a Ticket Review" src="https://github.com/user-attachments/assets/ab7161bf-c474-41a2-be2f-689bd55f7e50" />
+<img width="321" height="467" alt="Posting &#39;Read Only&#39; access inside Samuel portal" src="https://github.com/user-attachments/assets/5f7b5be9-397b-4ce8-ac50-cbc73b77027e" />
+
+<details><summary>See screenshot 5</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="VBAdminuser me giving all access or confirming he has all access in steps" src="https://github.com/user-attachments/assets/788e6baf-ab20-4937-92a7-ec1f6febdc1e" />
+
+<details><summary>See screenshot 6</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Going into my Portal to change Samuel access by clicking &#39;Agents&#39;" src="https://github.com/user-attachments/assets/a5f4ed8e-b22a-4293-a342-e32f5a252faa" />
+
+<details><summary>See screenshot 7</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Me as admin changing or confirming For Samuel Hancock all permissions access" src="https://github.com/user-attachments/assets/892faa31-ab25-467a-9512-e24495628a89" />
+
+<details><summary>See screenshot 8</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+
+<img width="321" height="467" alt="Clicking the Samuel hancock link and then clicking the &#39;Access&#39; tab again" src="https://github.com/user-attachments/assets/185a688d-6f1e-48a8-ae0b-ab3fb1dd85f0" />
+
+<details><summary>See screenshot 9</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Samuel has &#39;view only&#39; access again" src="https://github.com/user-attachments/assets/279f2c0e-aacb-448f-9734-214e5511a86a" />
+
+<details><summary>See screenshot 10</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="from &#39;Read Only&#39; to All Access for Samuel Hancock" src="https://github.com/user-attachments/assets/527eda38-713a-4b0a-88c6-70fc18c34dbf" />
+
+
+<p>After I myself Victoria Brewer as the Administrator has changed the permissions from 'view only' to 'all access' successfully and now I'm successfully logging out my portal and logging back in as Samuel Hancock as Tech Support.</p>
 
 
 
@@ -195,36 +241,151 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <img src="images/Step 2b.png" width="60%">
 </details>
 
+<img width="321" height="467" alt="Triaging Samuels Ticket" src="https://github.com/user-attachments/assets/2a996241-a071-410b-814f-a877fc53a613" />
 
-<img width="321" height="467" alt="Inside Samuel tech support ticket in changing the Priority from Normal to Emergency status" src="https://github.com/user-attachments/assets/d48687d4-cb68-4113-ba3c-8f1950503190" />
 
  <details><summary>See screenshot 2</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="Explaining the Business Outage and updating Help Topic" src="https://github.com/user-attachments/assets/6e4503e9-695a-4207-b7a8-3fed97d3a9fc" />
 
- <details><summary>See screenshot 3</summary>
+<img width="321" height="467" alt="Samuel doing a Ticket Review" src="https://github.com/user-attachments/assets/f4cbada6-87d9-4e7c-8746-5180f175583a" />
+
+
+<details><summary>See screenshot 3</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="Traiaging Joanns SLAs for update as Business Critical" src="https://github.com/user-attachments/assets/86dec404-6df8-43b5-9091-ffeaaeab9a2e" />
+<img width="321" height="467" alt="Updating the priority from normal to emergency for Joann as Samuel Tech Support " src="https://github.com/user-attachments/assets/dfc59958-2c19-4112-842b-c6cb6d40a4c9" />
+
 
 <details><summary>See screenshot 4</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="Assigning ticket to SysAdmin Susan" src="https://github.com/user-attachments/assets/f139176b-d333-42ad-a1a9-988fe6db4d51" />
+<img width="321" height="467" alt="Back in portal after giving all access Updating Priority from Normal to Emergency with Samuel " src="https://github.com/user-attachments/assets/26b2f149-5da2-4022-ab43-57dc94f6ec12" />
 
 <details><summary>See screenshot 5</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="Transfer to Susan the SysAdmin" src="https://github.com/user-attachments/assets/8159cb91-3868-4344-92a5-89d4b5a77bf8" />
+<img width="321" height="467" alt="Samuel has successfully updated Priority to say Emergency for Joann ticket" src="https://github.com/user-attachments/assets/8993ed4c-f62c-4697-9e6c-50c1155289a0" />
+
+
+<details><summary>See screenshot 6</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Samuel updating Joann ticket with &#39;Help Topics&#39; again from General Iquiry to Business Critical" src="https://github.com/user-attachments/assets/7637548b-dfdb-453d-a25d-50fc3a9363f3" />
+
+<details><summary>See screenshot 7</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Samuel updateing Joann ticket again for online banking system" src="https://github.com/user-attachments/assets/1394314e-d17c-4ff7-b980-9703f405db9d" />
+
+<details><summary>See screenshot 8</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Explaining the Business Outage and updating Help Topic" src="https://github.com/user-attachments/assets/a7c836af-526c-4edd-a682-f43e715c814e" />
+
+
+
+
+<details><summary>See screenshot 9</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Since Help Topics is Updated now look at Joann ticket for online banking system" src="https://github.com/user-attachments/assets/56817246-610b-41b7-81fc-bcaff5615486" />
+
+
+<details><summary>See screenshot 10</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+
+<img width="321" height="467" alt="Samuel Updating the SLA for Joann ticket" src="https://github.com/user-attachments/assets/75f82d0c-d690-4ef8-a810-6df494a60562" />
+
+
+<details><summary>See screenshot 11</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Samuel updating the SLA to Sev-A for Joann Ticket for online banking again" src="https://github.com/user-attachments/assets/373104c6-b838-48a7-8f6a-fa9193d06fe2" />
+
+
+<details><summary>See screenshot 12</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+
+<img width="321" height="467" alt="Samuel updated Sev-A Confirmed now take a look at the triage new ticket that needs finishing" src="https://github.com/user-attachments/assets/9a7f864b-c9ca-43f4-85a3-81889851a3d9" />
+
+
+<details><summary>See screenshot 13</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="After fully triaging Joanns ticket as Samuel Hancock then post an reply once ready to reassign ticket to Susan the SysAdmin" src="https://github.com/user-attachments/assets/cea73c37-643a-4858-8268-13bfd1fdace2" />
+
+<details><summary>See screenshot 14</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Samuel assigning Joanns ticket to Susan the SysAdmin again" src="https://github.com/user-attachments/assets/df7deceb-eac3-4646-8c81-1014936f628d" />
+
+
+<details><summary>See screenshot 15</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Finally Samuel assigning ticket to Susan with the &#39;Assign&#39; button" src="https://github.com/user-attachments/assets/0912df1f-d872-4f5b-9464-dade5241ac47" />
+
+
+<details><summary>See screenshot 16</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Looking at ticket Susan is successfully assigned Joanns Ticket by Samuel" src="https://github.com/user-attachments/assets/e3d27bcc-5ef5-4e5b-a8ed-4789d2382467" />
+
+<details><summary>See screenshot 17</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Samuel transferring Joann ticket to &#39;Support&#39; to &#39;SysAdmin&#39;" src="https://github.com/user-attachments/assets/75394acd-6018-4977-8298-ffca9cc4c95b" />
+
+
+<details><summary>See screenshot 18</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Samuel clicked the Trasferred button to transfer Joann ticket the SysAdmin depart" src="https://github.com/user-attachments/assets/0c8c25dc-0840-4918-9200-b9fb46ee9ff7" />
+
+
+<details><summary>See screenshot 19</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Samuel Tech Support doing the affects of transferring ticket successfully after fully going through the triaging process" src="https://github.com/user-attachments/assets/3d2449d3-1b37-4eb1-a295-843bdd2f77d1" />
 
 
 
@@ -263,7 +424,6 @@ Post the following message as a ticket reply:
 </details>
 
 
-<img width="372" height="387" alt="Step 17 Life cycle SysAdmin documenting fix solution in Post Reply section" src="https://github.com/user-attachments/assets/fdbc4ba5-d618-4f22-90e1-35e256809c8c" />
 
 
    
@@ -280,7 +440,7 @@ In this scenario, Susan restarts the server and verifies the online banking syst
 </details>
 
 
-<img width="324" height="376" alt="Step 18 Life cycle Finished Documenting Post Reply" src="https://github.com/user-attachments/assets/ac6c422a-ac0e-4b16-b6ea-b2ef6bd569b7" />
+
 
 
 
@@ -295,6 +455,6 @@ In this scenario, Susan restarts the server and verifies the online banking syst
 </details>
 
 
-<img width="353" height="293" alt="Step 21 Life cycle Ticket status closed resolved" src="https://github.com/user-attachments/assets/8120aa4e-d747-4deb-8838-8c7666d4ecd6" />
+
 
     

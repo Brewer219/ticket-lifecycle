@@ -227,7 +227,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 ## <h5>TICKET TRIAGING AND ESCALTION SIMULATION</h5>
 - Objective: Triage the ticket and escalate it to the SysAdmin department.
 - Instructions:
-  1. Log  in as Sam.
+  1. Log  in as Samuel.
   2. Update the ticket's priority to "Emergency"
   with the note:
       - "Called Joann and confirmed all teller systems have been down since lunch."
@@ -236,13 +236,14 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
       -"Escalating and assigning ticket to SysAdmin Department after triaging."
   5. Post the reply and assign the ticket to "Susan Smith", transferring it to the "SysAdmin Department".
  
-     <details><summary>See screenshot 1</summary>
+<details><summary>See screenshot 1</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
- 
-<img width="321" height="467" alt="Triaging Samuels Ticket" src="https://github.com/user-attachments/assets/2a996241-a071-410b-814f-a877fc53a613" />
+<img width="321" height="467" alt="Triaging Samuels Ticket" src="https://github.com/user-attachments/assets/d761b5d2-916b-45e3-b6cc-80047ce5e755" />
+
+
 
 
  <details><summary>See screenshot 2</summary>

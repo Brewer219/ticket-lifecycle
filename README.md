@@ -124,7 +124,7 @@ http://localhost/osTicket
 
 
 
-<h4>2. TICKET CREATION AND REVIEW</h4>
+## <h4>TICKET CREATION AND REVIEW</h4>
 <p>End-user reports that the online banking system is down.
 Login the End Users osTicket URL and as an end-user, Karen, open a new ticket. Intentionally choose the proper Help Topic, General Inquiry/Other and then actually explain the online banking system is down, and submit.  </p>
 - Instructions:

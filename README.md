@@ -72,7 +72,7 @@ http://localhost/osTicket
 1. Log into the osTicket Admin panel.
 2. Navigate to the "Agents" tab.
 3. Select the "Departments" section.
-4. Choose the "Maintenance Departmengt".
+4. Choose the "Maintenance Department".
 5. Click on "More" in the top-right corner and select "Delete".
 
 <details><summary>See screenshot 1</summary>

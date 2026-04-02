@@ -405,11 +405,26 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
    5. Post an update:
       -"Server successfully restarted. Online banking systems appear to be operational. Confirmed with Joann. Do closing ticket"
    6. Set the Ticket status to "Resolved".
-   7. Logout as Sam, and log back in as Susan, our SysAdmin. Review the ticket as Susan, and observe the timeline, review the actions and notes given by Joann and Sam. 
+   7. Logout as Sam, and log back in as Susan, our SysAdmin. Review the ticket as Susan, and observe the timeline, review the actions and notes given by Joann and Sam.
+
+ <details><summary>See screenshot 1</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+       
+
+<img width="321" height="467" alt="Now logged in as Susan the SysAdmin" src="https://github.com/user-attachments/assets/14f02f9b-3e5f-402d-84b2-fc0570ad832d" />
+
+
+<details><summary>See screenshot 2</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Susan reviewing Joann and Samuel notes" src="https://github.com/user-attachments/assets/f1cb1b23-a884-4640-925a-70255d1137b9" />
 
 
 
- 
 
 
 In a real work environment, system outages can be caused by many different factors. For the purposes of this lab, we will assume the issue was caused by an accidental restart of the online banking system’s backend server during business hours due to a configuration issue.
@@ -418,38 +433,35 @@ Post the following message as a ticket reply:
 
 “We accidentally restarted the online banking system’s backend server during business hours due to a configuration issue. We will review the settings and attempt to restart the service.”
 
-<details><summary>See screenshots</summary>
+<details><summary>See screenshot 3</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
+<img width="321" height="467" alt="Susan the system admin retarting the system accidentally related to business outage" src="https://github.com/user-attachments/assets/1e00272b-d3dc-4ec4-a0eb-992922083461" />
 
 
-
-   
-
-
+  
 
 
 
 In this scenario, Susan restarts the server and verifies the online banking system status. Once service is confirmed to be restored, post the following update:
 “Server successfully restarted. Online banking systems appear to be operational. Confirmed with Karen. Do closing ticket." Set the ticket status to Resolved. 
-<details><summary>See screenshots</summary>
+
+<details><summary>See screenshot 4</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-
-
-
-
-
+<img width="321" height="467" alt="Susan system admin confirming with Joann the online server is backup" src="https://github.com/user-attachments/assets/a1df79dc-c6a1-4c3c-b1b7-f25bb8206488" />
 
 
 
 
 > [!NOTE]: In osTicket, setting a ticket’s status to Resolved automatically marks the ticket as Closed. Other ticketing systems may separate these steps, where a ticket is marked as Resolved after a fix is applied and Closed only after confirmation that no further action is required.
-<details><summary>See screenshots</summary>
+
+
+<details><summary>See screenshot 5</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>

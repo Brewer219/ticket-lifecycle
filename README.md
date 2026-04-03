@@ -155,15 +155,15 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="online banking system is down" src="https://github.com/user-attachments/assets/2d0dd328-6236-4ccb-9213-8e6c991c79b7" />
+<img width="321" height="467" alt="Creating Joanns ticket for mobile online banking and type in the fields" src="https://github.com/user-attachments/assets/b2593459-f145-4fd2-9dc1-82ed260393b1" />
+
 
 <details><summary>See screenshot 3</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-
-<img width="321" height="467" alt="Creating Joanns ticket for mobile online banking and type in the fields" src="https://github.com/user-attachments/assets/b2593459-f145-4fd2-9dc1-82ed260393b1" />
+<img width="321" height="467" alt="online banking system is down" src="https://github.com/user-attachments/assets/2d0dd328-6236-4ccb-9213-8e6c991c79b7" />
 
 
 <details><summary>See screenshot 4</summary>

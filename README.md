@@ -319,17 +319,8 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 
 <img width="321" height="467" alt="Samuel updateing Joann ticket again for online banking system" src="https://github.com/user-attachments/assets/1394314e-d17c-4ff7-b980-9703f405db9d" />
 
+
 <details><summary>See screenshot 8</summary>
-
-<img src="images/Step 2b.png" width="60%">
-</details>
-
-<img width="321" height="467" alt="Explaining the Business Outage and updating Help Topic" src="https://github.com/user-attachments/assets/a7c836af-526c-4edd-a682-f43e715c814e" />
-
-
-
-
-<details><summary>See screenshot 9</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
@@ -337,7 +328,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <img width="321" height="467" alt="Since Help Topics is Updated now look at Joann ticket for online banking system" src="https://github.com/user-attachments/assets/56817246-610b-41b7-81fc-bcaff5615486" />
 
 
-<details><summary>See screenshot 10</summary>
+<details><summary>See screenshot 9</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
@@ -346,7 +337,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <img width="321" height="467" alt="Samuel Updating the SLA for Joann ticket" src="https://github.com/user-attachments/assets/75f82d0c-d690-4ef8-a810-6df494a60562" />
 
 
-<details><summary>See screenshot 11</summary>
+<details><summary>See screenshot 10</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
@@ -354,7 +345,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <img width="321" height="467" alt="Samuel updating the SLA to Sev-A for Joann Ticket for online banking again" src="https://github.com/user-attachments/assets/373104c6-b838-48a7-8f6a-fa9193d06fe2" />
 
 
-<details><summary>See screenshot 12</summary>
+<details><summary>See screenshot 11</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
@@ -363,14 +354,14 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <img width="321" height="467" alt="Samuel updated Sev-A Confirmed now take a look at the triage new ticket that needs finishing" src="https://github.com/user-attachments/assets/9a7f864b-c9ca-43f4-85a3-81889851a3d9" />
 
 
-<details><summary>See screenshot 13</summary>
+<details><summary>See screenshot 12</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
 <img width="321" height="467" alt="After fully triaging Joanns ticket as Samuel Hancock then post an reply once ready to reassign ticket to Susan the SysAdmin" src="https://github.com/user-attachments/assets/cea73c37-643a-4858-8268-13bfd1fdace2" />
 
-<details><summary>See screenshot 14</summary>
+<details><summary>See screenshot 13</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
@@ -378,7 +369,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <img width="321" height="467" alt="Samuel assigning Joanns ticket to Susan the SysAdmin again" src="https://github.com/user-attachments/assets/df7deceb-eac3-4646-8c81-1014936f628d" />
 
 
-<details><summary>See screenshot 15</summary>
+<details><summary>See screenshot 14</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
@@ -386,14 +377,14 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <img width="321" height="467" alt="Finally Samuel assigning ticket to Susan with the &#39;Assign&#39; button" src="https://github.com/user-attachments/assets/0912df1f-d872-4f5b-9464-dade5241ac47" />
 
 
-<details><summary>See screenshot 16</summary>
+<details><summary>See screenshot 15</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
 <img width="321" height="467" alt="Looking at ticket Susan is successfully assigned Joanns Ticket by Samuel" src="https://github.com/user-attachments/assets/e3d27bcc-5ef5-4e5b-a8ed-4789d2382467" />
 
-<details><summary>See screenshot 17</summary>
+<details><summary>See screenshot 16</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
@@ -401,7 +392,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <img width="321" height="467" alt="Samuel transferring Joann ticket to &#39;Support&#39; to &#39;SysAdmin&#39;" src="https://github.com/user-attachments/assets/75394acd-6018-4977-8298-ffca9cc4c95b" />
 
 
-<details><summary>See screenshot 18</summary>
+<details><summary>See screenshot 17</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
@@ -409,7 +400,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <img width="321" height="467" alt="Samuel clicked the Trasferred button to transfer Joann ticket the SysAdmin depart" src="https://github.com/user-attachments/assets/0c8c25dc-0840-4918-9200-b9fb46ee9ff7" />
 
 
-<details><summary>See screenshot 19</summary>
+<details><summary>See screenshot 18</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>

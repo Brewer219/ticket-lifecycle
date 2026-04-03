@@ -78,7 +78,7 @@ http://localhost/osTicket
 <details><summary>See screenshot 1</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details> <p>Once I logged into my own admin portal on the 'Ticket' tab page click on "Admin Panel." Image Shown Below:</p>
 
 <img width="321" height="467" alt="osTicket click &#39;Admin Panel&#39;" src="https://github.com/user-attachments/assets/8d4306a1-4144-47b1-a338-52c34ee58611" />
 
@@ -86,7 +86,7 @@ http://localhost/osTicket
 <details><summary>See screenshot 2</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Once inside the "Admin Panel" the click on "Agents" Tab and click "Departments." Image Shown Below:</p>
 
 <img width="321" height="467" alt="Maintenace being deleted" src="https://github.com/user-attachments/assets/35859db2-5300-4819-9b91-aa5e4ea36ba5" />
 
@@ -94,21 +94,21 @@ http://localhost/osTicket
 <details><summary>See screenshot 3</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>From there once you on the "Departments" page checkbox "Maintenance" depart then click the down arrow on the "More" button and click the "Delete" option. Image Shown Below:/p>
 
 <img width="321" height="467" alt="Deleting the Maintenance Depart" src="https://github.com/user-attachments/assets/6d2a79f2-1a5d-4719-aa19-299743530dbb" />
 
 <details><summary>See screenshot 4</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Once you click the "Delete" option then the "Please Confirm" click below on the right "Yes, Do It" button.Image Shown Below:</p>
 
 <img width="321" height="467" alt="Confirm Deleting the Maintence depart" src="https://github.com/user-attachments/assets/034dc4ce-1742-40e2-a0ef-43f7d5cb9110" />
 
 <details><summary>See screenshot 5</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details> <p>Now the final step shows the "Maintenance" depart is fully deleted and now removed off the page. Image Shown Below:</p>
 <img width="321" height="467" alt="Maintence Depart successfully deleted in Departments Tab" src="https://github.com/user-attachments/assets/61fd96fd-62c6-40a0-8262-8ac2742414c6" />
 
 

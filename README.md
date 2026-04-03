@@ -235,14 +235,14 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 13</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details><p>Once inside the "Access" tab under "Primary Department" click the dropdown to change option from "View only" to "All Access".</p>
+</details><p>Once inside the "Access" tab under "Primary Department" click the dropdown to change options where it says "view only".</p>
 
 <img width="321" height="467" alt="Samuel has &#39;view only&#39; access again" src="https://github.com/user-attachments/assets/279f2c0e-aacb-448f-9734-214e5511a86a" />
 
 <details><summary>See screenshot 14</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p> Click "save Changes" and then logout your personal Admin Panel.</p>
 
 <img width="321" height="467" alt="from &#39;Read Only&#39; to All Access for Samuel Hancock" src="https://github.com/user-attachments/assets/527eda38-713a-4b0a-88c6-70fc18c34dbf" />
 

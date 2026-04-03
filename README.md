@@ -121,7 +121,7 @@ http://localhost/osTicket
 
 ## <h4>TICKET CREATION AND REVIEW</h4>
 <p>End-user reports that the online banking system is down.
-Login the End Users osTicket URL and as an end-user, Karen, open a new ticket. Intentionally choose the proper Help Topic, General Inquiry/Other and then actually explain the online banking system is down, and submit.  </p>
+Login the End Users osTicket URL and as an end-user, Joann, open a new ticket. Intentionally choose the proper Help Topic, General Inquiry/Other and then actually explain the online banking system is down, and submit.  </p>
 - Instructions:
 1. Access the End User osTicket URL.
 2. Log in as "Joann", the end user.
@@ -147,7 +147,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="Triaging Samuels Ticket" src="https://github.com/user-attachments/assets/a3787f37-0b52-4b1a-9490-755fbe55ead6" />
+<img width="321" height="467" alt="osTicket End User page setup for Users to submit tickets" src="https://github.com/user-attachments/assets/6511fb08-27a8-45ee-a938-e08142cf61ae" />
 
 
 <details><summary>See screenshot 2</summary>
@@ -155,44 +155,67 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="Samuel doing a Ticket Review" src="https://github.com/user-attachments/assets/4c4d6653-3f3b-4a2d-8e22-b7ebc5c2746f" />
+<img width="321" height="467" alt="online banking system is down" src="https://github.com/user-attachments/assets/2d0dd328-6236-4ccb-9213-8e6c991c79b7" />
 
 <details><summary>See screenshot 3</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="Inside Samel portal posting the test and &#39;Read Only&#39; access" src="https://github.com/user-attachments/assets/409936c1-b427-4ee5-a16e-3ce508f19686" />
+<img width="321" height="467" alt="Joann ticket was successfully created" src="https://github.com/user-attachments/assets/4cffd78a-3bb2-468c-bd73-e4edb448ecdf" />
+
 
 <details><summary>See screenshot 4</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="Posting &#39;Read Only&#39; access inside Samuel portal" src="https://github.com/user-attachments/assets/5f7b5be9-397b-4ce8-ac50-cbc73b77027e" />
+<img width="321" height="467" alt="Triaging Samuels Ticket" src="https://github.com/user-attachments/assets/a3787f37-0b52-4b1a-9490-755fbe55ead6" />
+
 
 <details><summary>See screenshot 5</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="VBAdminuser me giving all access or confirming he has all access in steps" src="https://github.com/user-attachments/assets/788e6baf-ab20-4937-92a7-ec1f6febdc1e" />
+<img width="321" height="467" alt="Samuel doing a Ticket Review" src="https://github.com/user-attachments/assets/4c4d6653-3f3b-4a2d-8e22-b7ebc5c2746f" />
 
 <details><summary>See screenshot 6</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="Going into my Portal to change Samuel access by clicking &#39;Agents&#39;" src="https://github.com/user-attachments/assets/a5f4ed8e-b22a-4293-a342-e32f5a252faa" />
+<img width="321" height="467" alt="Inside Samel portal posting the test and &#39;Read Only&#39; access" src="https://github.com/user-attachments/assets/409936c1-b427-4ee5-a16e-3ce508f19686" />
 
 <details><summary>See screenshot 7</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
-<img width="321" height="467" alt="Me as admin changing or confirming For Samuel Hancock all permissions access" src="https://github.com/user-attachments/assets/892faa31-ab25-467a-9512-e24495628a89" />
+<img width="321" height="467" alt="Posting &#39;Read Only&#39; access inside Samuel portal" src="https://github.com/user-attachments/assets/5f7b5be9-397b-4ce8-ac50-cbc73b77027e" />
 
 <details><summary>See screenshot 8</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="VBAdminuser me giving all access or confirming he has all access in steps" src="https://github.com/user-attachments/assets/788e6baf-ab20-4937-92a7-ec1f6febdc1e" />
+
+<details><summary>See screenshot 9</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Going into my Portal to change Samuel access by clicking &#39;Agents&#39;" src="https://github.com/user-attachments/assets/a5f4ed8e-b22a-4293-a342-e32f5a252faa" />
+
+<details><summary>See screenshot 10</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details>
+
+<img width="321" height="467" alt="Me as admin changing or confirming For Samuel Hancock all permissions access" src="https://github.com/user-attachments/assets/892faa31-ab25-467a-9512-e24495628a89" />
+
+<details><summary>See screenshot 11</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
@@ -200,14 +223,14 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 
 <img width="321" height="467" alt="Clicking the Samuel hancock link and then clicking the &#39;Access&#39; tab again" src="https://github.com/user-attachments/assets/185a688d-6f1e-48a8-ae0b-ab3fb1dd85f0" />
 
-<details><summary>See screenshot 9</summary>
+<details><summary>See screenshot 12</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>
 
 <img width="321" height="467" alt="Samuel has &#39;view only&#39; access again" src="https://github.com/user-attachments/assets/279f2c0e-aacb-448f-9734-214e5511a86a" />
 
-<details><summary>See screenshot 10</summary>
+<details><summary>See screenshot 13</summary>
 
 <img src="images/Step 2b.png" width="60%">
 </details>

@@ -102,7 +102,7 @@ http://localhost/osTicket
 <details><summary>See screenshot 4</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details><p>Once you click the "Delete" option then the "Please Confirm" click below on the right "Yes, Do It" button.Image Shown Below:</p>
+</details><p>Once you click the "Delete" option then the "Please Confirm" click below on the right "Yes, Do It" button. Image Shown Below:</p>
 
 <img width="321" height="467" alt="Confirm Deleting the Maintence depart" src="https://github.com/user-attachments/assets/034dc4ce-1742-40e2-a0ef-43f7d5cb9110" />
 

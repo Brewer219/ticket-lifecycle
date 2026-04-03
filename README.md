@@ -430,7 +430,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
  <details><summary>See screenshot 1</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Now logged into the SysAdmin who is Susan Smith. As Shown Image Below: </p>
        
 
 <img width="321" height="467" alt="Now logged in as Susan the SysAdmin" src="https://github.com/user-attachments/assets/14f02f9b-3e5f-402d-84b2-fc0570ad832d" />
@@ -439,7 +439,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 2</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Now Once inside Joanns ticket as Susan you can now review the notes from Joann and Samuel. As Shown Image Below: </p>
 
 <img width="321" height="467" alt="Susan reviewing Joann and Samuel notes" src="https://github.com/user-attachments/assets/f1cb1b23-a884-4640-925a-70255d1137b9" />
 
@@ -484,7 +484,41 @@ In this scenario, Susan restarts the server and verifies the online banking syst
 <details><summary>See screenshot 5</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Now clicking the status to show options on Joann's ticket. Shown Image Below:</p>
+
+<img width="321" height="467" alt="Options Status on Joann ticket I close to Resolve to reopen ticket" src="https://github.com/user-attachments/assets/4f949a49-6fac-4a33-b3b0-75c2fbb2ae22" />
+
+<details><summary>See screenshot 6</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details><p>Now for Resolved Box once it popup click the "Closed" button. As Shown Image Below:</p>
+
+<img width="321" height="467" alt="Joanns Ticket being &#39;Resolved&#39;" src="https://github.com/user-attachments/assets/cb45b929-e6e6-4034-aea4-8138490ab207" />
+
+<details><summary>See screenshot 7</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details><p> Now click the status of ticket and choose the options. As Shown Image Below: </p>
+
+<img width="321" height="467" alt="Susan choosing closed status for online banking system" src="https://github.com/user-attachments/assets/e58d51e9-ba4e-4dad-8445-46823181dee6" />
+
+<details><summary>See screenshot 8</summary>
+
+<img src="images/Step 2b.png" width="60%">
+</details><p>Now click option for "Closed" and in the box type "Root cause analysis completed and issues confirmed and resoleved. As Shown Image Below: </p>
+
+<img width="321" height="467" alt="Joann ticket being closed" src="https://github.com/user-attachments/assets/39ca1d2a-c79d-423d-be3e-362ed5168b52" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 

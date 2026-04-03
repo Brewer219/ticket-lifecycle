@@ -145,7 +145,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 1</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Once logging into the "Support Center" end user portal then click the "Open a New Ticket" blue button.</p>
 
 <img width="321" height="467" alt="osTicket End User page setup for Users to submit tickets" src="https://github.com/user-attachments/assets/6511fb08-27a8-45ee-a938-e08142cf61ae" />
 
@@ -153,7 +153,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 2</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>In the fields type "Joann@lognpacific.com" and in the "Full Name" field and type "Joann" in the "Help Topics" field and click the dropdown button and select "General Inquiry/Other."</p>
 
 <img width="321" height="467" alt="Creating Joanns ticket for mobile online banking and type in the fields" src="https://github.com/user-attachments/assets/b2593459-f145-4fd2-9dc1-82ed260393b1" />
 
@@ -161,7 +161,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 3</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Then type in the "Issue Summary" field and type "entire mobile/online banking system is down."Then type in the "Create Ticket" box typing "Entire mobile/online banking system is down when I got back from lunch I couldn't log into the online banking system portal and none of my tellers at the branch couldn't either and click the "Create Ticket" button.</p>
 
 <img width="321" height="467" alt="online banking system is down" src="https://github.com/user-attachments/assets/2d0dd328-6236-4ccb-9213-8e6c991c79b7" />
 
@@ -169,7 +169,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 4</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p> Now from there you can see Joann's ticket is now created shown the Image Below:</p>
 
 <img width="321" height="467" alt="Joann ticket was successfully created" src="https://github.com/user-attachments/assets/4cffd78a-3bb2-468c-bd73-e4edb448ecdf" />
 
@@ -177,7 +177,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 5</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Now log into portal as "Samuel" Level Support and you will see the ticket Joann created for Level Support and then click into mobile/online ticket. Shown the Image Below: </p>
 
 <img width="321" height="467" alt="Triaging Samuels Ticket" src="https://github.com/user-attachments/assets/a3787f37-0b52-4b1a-9490-755fbe55ead6" />
 
@@ -185,49 +185,49 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 6</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Once you click into Joann's ticket and Review it. Shown the Image Below: </p>
 
 <img width="321" height="467" alt="Samuel doing a Ticket Review" src="https://github.com/user-attachments/assets/4c4d6653-3f3b-4a2d-8e22-b7ebc5c2746f" />
 
 <details><summary>See screenshot 7</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Once you scroll down clcik and type into "Internal Note" field and type "Samuel was here" and type in the "Post Note" and type "Testing as a user with 'Read Only' access. Shown the Image Below:</p>
 
 <img width="321" height="467" alt="Inside Samel portal posting the test and &#39;Read Only&#39; access" src="https://github.com/user-attachments/assets/409936c1-b427-4ee5-a16e-3ce508f19686" />
 
 <details><summary>See screenshot 8</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p> Now you see the notes that Samuel posted recently posted. Shown the Image Below:</p>
 
 <img width="321" height="467" alt="Posting &#39;Read Only&#39; access inside Samuel portal" src="https://github.com/user-attachments/assets/5f7b5be9-397b-4ce8-ac50-cbc73b77027e" />
 
 <details><summary>See screenshot 9</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Now to give all access or permissions to "Samuel" you need to log into the Level Support portal and click "Admin Panel". Shown the Image Below: </p>
 
 <img width="321" height="467" alt="VBAdminuser me giving all access or confirming he has all access in steps" src="https://github.com/user-attachments/assets/788e6baf-ab20-4937-92a7-ec1f6febdc1e" />
 
 <details><summary>See screenshot 10</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Once at the "Admin Panel"and click the "Agents" tab on the right of page to get on 'Agents' page. Shown the Image Below: </p>
 
 <img width="321" height="467" alt="Going into my Portal to change Samuel access by clicking &#39;Agents&#39;" src="https://github.com/user-attachments/assets/a5f4ed8e-b22a-4293-a342-e32f5a252faa" />
 
 <details><summary>See screenshot 11</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Once on 'Agents' page then click "Samuel Hancock" to get into the account. Shown the Image Below: </p>
 
 <img width="321" height="467" alt="Me as admin changing or confirming For Samuel Hancock all permissions access" src="https://github.com/user-attachments/assets/892faa31-ab25-467a-9512-e24495628a89" />
 
 <details><summary>See screenshot 12</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Once in "Samuel" account and click the "Access" tab. Shown the Image Below:</p>
 
 
 <img width="321" height="467" alt="Clicking the Samuel hancock link and then clicking the &#39;Access&#39; tab again" src="https://github.com/user-attachments/assets/185a688d-6f1e-48a8-ae0b-ab3fb1dd85f0" />
@@ -235,7 +235,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 13</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Once inside the "Access" tab under "Primary Department" click the dropdown to change option from "View only" to "All Access".</p>
 
 <img width="321" height="467" alt="Samuel has &#39;view only&#39; access again" src="https://github.com/user-attachments/assets/279f2c0e-aacb-448f-9734-214e5511a86a" />
 

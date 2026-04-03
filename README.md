@@ -266,7 +266,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 1</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p> Now log back in as "Samuel" and click on the ticket from Joann. Shown in the Image below:</p>
 
 <img width="321" height="467" alt="Triaging Samuels Ticket" src="https://github.com/user-attachments/assets/d761b5d2-916b-45e3-b6cc-80047ce5e755" />
 
@@ -276,7 +276,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
  <details><summary>See screenshot 2</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Once inside of "Joann" ticket you are able to look at it again. Shwon Inage Below:</p>
 
 
 <img width="321" height="467" alt="Samuel doing a Ticket Review" src="https://github.com/user-attachments/assets/f4cbada6-87d9-4e7c-8746-5180f175583a" />
@@ -285,7 +285,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 3</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Click on the Priority Status of ticket where it say "Normal" and click it to update it. Shown Image Below:</p>
 
 <img width="321" height="467" alt="Updating the priority from normal to emergency for Joann as Samuel Tech Support " src="https://github.com/user-attachments/assets/dfc59958-2c19-4112-842b-c6cb6d40a4c9" />
 
@@ -293,14 +293,14 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 4</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Update "Normal" status to "Emergency" status and type in the box typing "Called end user to confirm, all teller systems are down as of <time date>. Shwon Image Below: </p>
 
 <img width="321" height="467" alt="Back in portal after giving all access Updating Priority from Normal to Emergency with Samuel " src="https://github.com/user-attachments/assets/26b2f149-5da2-4022-ab43-57dc94f6ec12" />
 
 <details><summary>See screenshot 5</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Look at the status and see the "Emergency" was successfully updated. Shown Image Below:</p>
 
 <img width="321" height="467" alt="Samuel has successfully updated Priority to say Emergency for Joann ticket" src="https://github.com/user-attachments/assets/8993ed4c-f62c-4697-9e6c-50c1155289a0" />
 
@@ -308,14 +308,14 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 6</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Click on the "Help Topic" where it says "General Inquiry/Equipment Request" and click it to update it. Shown Image Below: </p>
 
 <img width="321" height="467" alt="Samuel updating Joann ticket with &#39;Help Topics&#39; again from General Iquiry to Business Critical" src="https://github.com/user-attachments/assets/7637548b-dfdb-453d-a25d-50fc3a9363f3" />
 
 <details><summary>See screenshot 7</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Update "General Inquiry/Equipment Request" to "Report a Problem/Business Critical Outage" and type in the box "Entire Banking system is offline and then click the "Updated" button. Shown Image Below: </p>
 
 <img width="321" height="467" alt="Samuel updateing Joann ticket again for online banking system" src="https://github.com/user-attachments/assets/1394314e-d17c-4ff7-b980-9703f405db9d" />
 
@@ -323,7 +323,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 8</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Now "Help Topic" is updated to "Report a Problem/Business Critical Outage" as shown in Image Below: </p>
 
 <img width="321" height="467" alt="Since Help Topics is Updated now look at Joann ticket for online banking system" src="https://github.com/user-attachments/assets/56817246-610b-41b7-81fc-bcaff5615486" />
 
@@ -331,7 +331,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 9</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Next clicking on "SLA Plan" Status which is "Default SLA". As Shown Below: </p>
 
 
 <img width="321" height="467" alt="Samuel Updating the SLA for Joann ticket" src="https://github.com/user-attachments/assets/75f82d0c-d690-4ef8-a810-6df494a60562" />
@@ -340,7 +340,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 10</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Click SLA Status to Sev-A, then in SLA box type "Business Critical" and click in the "Update" button. As Shown Image Below:</p>
 
 <img width="321" height="467" alt="Samuel updating the SLA to Sev-A for Joann Ticket for online banking again" src="https://github.com/user-attachments/assets/373104c6-b838-48a7-8f6a-fa9193d06fe2" />
 
@@ -348,7 +348,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 11</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Now from there you will see "Sev-A" in the ticket. As Shown Image Below:</p>
 
 
 <img width="321" height="467" alt="Samuel updated Sev-A Confirmed now take a look at the triage new ticket that needs finishing" src="https://github.com/user-attachments/assets/9a7f864b-c9ca-43f4-85a3-81889851a3d9" />
@@ -357,14 +357,14 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 12</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>From there after triaging the ticket scroll down and type reply notes "Escalating to SysAdmin department after triaging the ticket and scroll down and clikck the "Reply Post" button. As Shwon Image Below: </p>
 
 <img width="321" height="467" alt="After fully triaging Joanns ticket as Samuel Hancock then post an reply once ready to reassign ticket to Susan the SysAdmin" src="https://github.com/user-attachments/assets/cea73c37-643a-4858-8268-13bfd1fdace2" />
 
 <details><summary>See screenshot 13</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Now to transfer to a different agent from "Samuel Hancock" to Susan Smith in the "Assign to": category. As Shown Image Below: </p>
 
 <img width="321" height="467" alt="Samuel assigning Joanns ticket to Susan the SysAdmin again" src="https://github.com/user-attachments/assets/df7deceb-eac3-4646-8c81-1014936f628d" />
 
@@ -372,7 +372,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 14</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>In order to go from "Samuel Hancock" to "Susan Smith" in the selection dropdown option and click the "Assign" button. As Shown Image Below: </p>
 
 <img width="321" height="467" alt="Finally Samuel assigning ticket to Susan with the &#39;Assign&#39; button" src="https://github.com/user-attachments/assets/0912df1f-d872-4f5b-9464-dade5241ac47" />
 
@@ -380,14 +380,14 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 15</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Now Susan Smith is assigned Joann's ticket as shwon Image Below: </p>
 
 <img width="321" height="467" alt="Looking at ticket Susan is successfully assigned Joanns Ticket by Samuel" src="https://github.com/user-attachments/assets/e3d27bcc-5ef5-4e5b-a8ed-4789d2382467" />
 
 <details><summary>See screenshot 16</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Now click the "Support" Department as shown Image Below:</p>
 
 <img width="321" height="467" alt="Samuel transferring Joann ticket to &#39;Support&#39; to &#39;SysAdmin&#39;" src="https://github.com/user-attachments/assets/75394acd-6018-4977-8298-ffca9cc4c95b" />
 
@@ -395,7 +395,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 17</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Transfer overall box will popup and select option "Support/SysAdmin" and below click the "transfer" button. As Shown Below: </p>
 
 <img width="321" height="467" alt="Samuel clicked the Trasferred button to transfer Joann ticket the SysAdmin depart" src="https://github.com/user-attachments/assets/0c8c25dc-0840-4918-9200-b9fb46ee9ff7" />
 
@@ -403,7 +403,7 @@ In osTicket, we cant @ or send the ticket directly to SysAdmin, but we can simul
 <details><summary>See screenshot 18</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details>
+</details><p>Now trasferring ticket to Support/SysAdmins is completely successfully. As Shown Image Below: </p>
 
 <img width="321" height="467" alt="Samuel Tech Support doing the affects of transferring ticket successfully after fully going through the triaging process" src="https://github.com/user-attachments/assets/3d2449d3-1b37-4eb1-a295-843bdd2f77d1" />
 

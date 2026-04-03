@@ -94,7 +94,8 @@ http://localhost/osTicket
 <details><summary>See screenshot 3</summary>
 
 <img src="images/Step 2b.png" width="60%">
-</details><p>From there once you on the "Departments" page checkbox "Maintenance" depart then click the down arrow on the "More" button and click the "Delete" option. Image Shown Below:/p>
+</details>
+<p>From there once you on the "Departments" page checkbox "Maintenance" depart then click the down arrow on the "More" button and click the "Delete" option. Image Shown Below:</p>
 
 <img width="321" height="467" alt="Deleting the Maintenance Depart" src="https://github.com/user-attachments/assets/6d2a79f2-1a5d-4719-aa19-299743530dbb" />
 
